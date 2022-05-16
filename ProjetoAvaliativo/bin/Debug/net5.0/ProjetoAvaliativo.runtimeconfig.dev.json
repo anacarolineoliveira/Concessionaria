@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\ancaroline\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\ancaroline\\.nuget\\packages"
+    ]
+  }
+}

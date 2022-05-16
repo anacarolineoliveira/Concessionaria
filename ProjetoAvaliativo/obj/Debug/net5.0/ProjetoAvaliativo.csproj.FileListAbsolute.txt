@@ -1,0 +1,16 @@
+C:\Users\ancaroline\source\repos\ProjetoAvaliativo\ProjetoAvaliativo\bin\Debug\net5.0\ProjetoAvaliativo.exe
+C:\Users\ancaroline\source\repos\ProjetoAvaliativo\ProjetoAvaliativo\bin\Debug\net5.0\ProjetoAvaliativo.deps.json
+C:\Users\ancaroline\source\repos\ProjetoAvaliativo\ProjetoAvaliativo\bin\Debug\net5.0\ProjetoAvaliativo.runtimeconfig.json
+C:\Users\ancaroline\source\repos\ProjetoAvaliativo\ProjetoAvaliativo\bin\Debug\net5.0\ProjetoAvaliativo.runtimeconfig.dev.json
+C:\Users\ancaroline\source\repos\ProjetoAvaliativo\ProjetoAvaliativo\bin\Debug\net5.0\ProjetoAvaliativo.dll
+C:\Users\ancaroline\source\repos\ProjetoAvaliativo\ProjetoAvaliativo\bin\Debug\net5.0\ref\ProjetoAvaliativo.dll
+C:\Users\ancaroline\source\repos\ProjetoAvaliativo\ProjetoAvaliativo\bin\Debug\net5.0\ProjetoAvaliativo.pdb
+C:\Users\ancaroline\source\repos\ProjetoAvaliativo\ProjetoAvaliativo\obj\Debug\net5.0\ProjetoAvaliativo.csproj.AssemblyReference.cache
+C:\Users\ancaroline\source\repos\ProjetoAvaliativo\ProjetoAvaliativo\obj\Debug\net5.0\ProjetoAvaliativo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ancaroline\source\repos\ProjetoAvaliativo\ProjetoAvaliativo\obj\Debug\net5.0\ProjetoAvaliativo.AssemblyInfoInputs.cache
+C:\Users\ancaroline\source\repos\ProjetoAvaliativo\ProjetoAvaliativo\obj\Debug\net5.0\ProjetoAvaliativo.AssemblyInfo.cs
+C:\Users\ancaroline\source\repos\ProjetoAvaliativo\ProjetoAvaliativo\obj\Debug\net5.0\ProjetoAvaliativo.csproj.CoreCompileInputs.cache
+C:\Users\ancaroline\source\repos\ProjetoAvaliativo\ProjetoAvaliativo\obj\Debug\net5.0\ProjetoAvaliativo.dll
+C:\Users\ancaroline\source\repos\ProjetoAvaliativo\ProjetoAvaliativo\obj\Debug\net5.0\ref\ProjetoAvaliativo.dll
+C:\Users\ancaroline\source\repos\ProjetoAvaliativo\ProjetoAvaliativo\obj\Debug\net5.0\ProjetoAvaliativo.pdb
+C:\Users\ancaroline\source\repos\ProjetoAvaliativo\ProjetoAvaliativo\obj\Debug\net5.0\ProjetoAvaliativo.genruntimeconfig.cache
